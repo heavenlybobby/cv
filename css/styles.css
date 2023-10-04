@@ -48,6 +48,15 @@ a:hover {
   color: #eaf6f6;
 }
 
+.nav-nav {
+  background-color: #66bfbf;
+}
+
+.nav-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
 .top-container {
   background-color: #e4f9f5;
   position: relative;
